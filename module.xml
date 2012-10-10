@@ -1,0 +1,25 @@
+<module>
+	<rawname>csreporting</rawname>
+	<name>Customer Service Reporting</name>
+	<version>1.0.3</version>
+	<type>setup</type>
+	<category>Third Party Addon</category>
+		<publisher>projects.colsolgrp.net</publisher> 
+	<license>GPLv2</license>
+	<menuitems>
+		<csreporting>CS Reporting</csreporting>
+	</menuitems>
+	 <description>Customer Service Reporting</description>
+	 <changelog>
+		*1.0.3* Ticket #136 (http://projects.colsolgrp.net/issues/146). (tshif) 12-23-10
+		*1.0.2* Adde info/location data to module. (tshif) 05-01-09
+		*1.0.1* correct issue with cronjob not being deleted during uninstall.  (Jeremy Jacobs) 05-01-09
+		*1.0.0* made some UI changes and made cron work. First full working release.  (Jeremy Jacobs) 05-01-09
+		*0.0.4* changed name of module and worked on some database changes.  (Jeremy Jacobs) 4-27-09
+		*0.0.3* config settings uppdates  (tshif) 4-11-09
+		*0.0.2* 1st UI framework  (tshif) 4-11-09
+		*0.0.1* 1st Module trial  (tshif) 4-10-09
+        </changelog>
+	<info>http://projects.colsolgrp.net/projects/show/csreporting</info>
+	<location>http://projects.colsolgrp.net/projects/list_files/csreporting</location>
+</module>
